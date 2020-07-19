@@ -1,0 +1,42 @@
+body
+{
+  
+    background-image: url("https://umaine.edu/canam/wp-content/uploads/sites/149/2018/01/lib.png");
+     background-repeat: no-repeat;
+     background-size:  cover;
+}
+h1
+{
+    color:black;
+    margin: 10% 0 0 30%;
+    font-size: 3em;
+    font-weight: bolder;
+      font-size: 5em;
+}
+h2{
+  position: absolute;;
+  top: 10%;
+  left: 45%;
+  color: white;
+}
+ul 
+{
+    display: flex;
+    margin-left: 42%;
+}
+ul li{
+    margin: 1em;
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.5em;
+     background: wheat;
+    padding: 0.5em;
+    border-radius: 1em;
+}
+a:hover {
+	background: black;
+	color: white;
+}
